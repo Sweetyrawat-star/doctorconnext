@@ -1,4 +1,4 @@
-![9](https://github.com/Sweetyrawat-star/doctorconnext/assets/57385799/6754ab3a-6a9b-4fa8-b8dd-e7b75c23210c)![6](https://github.com/Sweetyrawat-star/doctorconnext/assets/57385799/5243d981-b7e6-4168-ab82-abebc4b493cb)
+
 # doctorconnext
 # Flutter 3.3.0 Updated
 ## 📱 Screenshots
@@ -31,7 +31,7 @@
 
 |  About hospitial clinic                                       |                                                   Detail Screen                                  |
 |:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
-| <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/Sweetyrawat-star/doctorconnext/assets/57385799/fa99d75e-0ff8-4e50-b8b4-ddccc0d7d7fa.png">|
+| <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/Sweetyrawat-star/doctorconnext/assets/57385799/fa99d75e-0ff8-4e50-b8b4-ddccc0d7d7fa.png">| <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/Sweetyrawat-star/doctorconnext/assets/57385799/1c6d4c1a-8428-499a-a72f-c34276648ecc.png">|
 
 
 
@@ -41,10 +41,6 @@
 |:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
 | <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/Sweetyrawat-star/doctorconnext/assets/57385799/d9cb8b8f-33f7-4076-8581-3174d70dfca6.png">|<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://github.com/Sweetyrawat-star/doctorconnext/assets/57385799/f047d39d-0ea1-4706-a16e-b1139f5e4a96.png">|
 
-
-|  Course Content View                                         |                                                   QUIZ Time                                      |
-|:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
-| <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src=## 📱 Screenshots
 
 |  Login Auth Screen                                              |                                                   Dashboard                                    |
 |:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
