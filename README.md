@@ -9,9 +9,7 @@
 
 
 
-|  Patient Symtomps                                          
-   |                                                   vitials                                      |
-|:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
+|  Patient Symtomps                                                      |                                                                                                 Vitials                                       
 | <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/Sweetyrawat-star/doctorconnext/assets/57385799/51074aac-7dbf-4886-a0a5-00f1c5196f9c.png">|<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://github.com/Sweetyrawat-star/doctorconnext/assets/57385799/77913cca-d882-4654-b169-a9504e0b24a6.png">|
 
 
